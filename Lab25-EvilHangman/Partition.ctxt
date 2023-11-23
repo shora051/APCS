@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=pattern
+comment0.target=Partition(java.lang.String)
+comment0.text=\r\n\ Construct\ a\ Partition\ object\ with\ no\ words.\r\n\r\n\ @param\ pattern\ the\ pattern\ for\ the\ partition.\r\n
+comment1.params=pattern\ word
+comment1.target=Partition(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construct\ a\ Partition\ object\ with\ one\ given\ word.\r\n\r\n\ @param\ pattern\ the\ pattern\ for\ the\ partition.\r\n\ @param\ word\ \ \ \ the\ initial\ word\ for\ the\ partition.\r\n
+comment2.params=pattern\ word
+comment2.target=boolean\ addIfMatches(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Adds\ word\ to\ the\ partition\ IFF\ the\ pattern\ matches\ the\ given\ one.\r\n\r\n\ @param\ pattern\ the\ pattern\ to\ check\ for\ a\ match.\r\n\ @param\ word\ \ \ \ the\ word\ to\ add\ if\ the\ patterns\ match.\r\n\ @returns\ true\ if\ word\ is\ added;\ false\ otherwise.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPattern()
+comment4.params=
+comment4.target=java.util.List\ getWords()
+comment4.text=\r\n\ @return\ the\ pattern's\ words.\r\n
+comment5.params=
+comment5.target=int\ getPatternDashCount()
+comment5.text=\r\n\ @return\ the\ number\ of\ dashs\ in\ the\ partition's\ pattern.\r\n
+numComments=6
