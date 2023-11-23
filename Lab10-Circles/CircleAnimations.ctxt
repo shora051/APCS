@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=CircleAnimations(int)
+comment0.text=create\ a\ drawing\ pane\ of\ a\ particular\ size
+comment1.params=
+comment1.target=void\ drawCircles()
+comment2.params=
+comment2.target=void\ addCircles()
+comment3.params=number
+comment3.target=void\ addCircles(int)
+comment4.params=number
+comment4.target=void\ noOverlapping(int)
+comment5.params=other
+comment5.target=boolean\ checkOverlap(Circle)
+comment6.params=
+comment6.target=void\ movingCircles()
+comment7.params=
+comment7.target=void\ removeClicked()
+numComments=8
