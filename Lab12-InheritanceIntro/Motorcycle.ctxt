@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=t\ y\ p\ sl
+comment0.target=Motorcycle(java.lang.String,\ int,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getInfo()
+numComments=2
