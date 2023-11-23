@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bookstore()
+comment1.params=b
+comment1.target=void\ addBook(Book)
+comment2.params=
+comment2.target=int\ numBooks()
+comment3.params=index
+comment3.target=Book\ getBook(int)
+numComments=4
