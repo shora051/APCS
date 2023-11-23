@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Path(java.lang.String)
+comment0.text=construct\ a\ path\ from\ a\ given\ file
+comment1.params=
+comment1.target=double\ getMinX()
+comment2.params=
+comment2.target=double\ getMaxX()
+comment3.params=
+comment3.target=double\ getMinY()
+comment4.params=
+comment4.target=double\ getMaxY()
+comment5.params=ptNum
+comment5.target=Point\ getPoint(int)
+comment6.params=
+comment6.target=double\ getDistance()
+comment6.text=returns\ the\ distance\ traveled\ going\ point\ to\ point,\ in\ order\ given\ in\ file
+comment7.params=
+comment7.target=int\ getNumPoints()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Point(double,\ double)
+comment1.params=x
+comment1.target=void\ setX(double)
+comment2.params=y
+comment2.target=void\ setY(double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=v
+comment5.target=void\ setVisit(boolean)
+comment6.params=
+comment6.target=boolean\ getVisit()
+comment7.params=other
+comment7.target=double\ getDistance(Point)
+comment7.text=get\ the\ Euclidean\ distance\ between\ two\ points
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
